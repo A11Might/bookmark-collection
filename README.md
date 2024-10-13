@@ -1,3 +1,4 @@
+- [科技爱好者周刊（第 320 期）：乒乓仓 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html) 每周一看 #read
 - [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/) 可以用作稍后读 #toy
 
 # About
