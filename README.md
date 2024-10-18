@@ -1,3 +1,4 @@
+- [#9: Unit Tests As Documentation](https://www.thecoder.cafe/p/unit-tests-as-documentation) 单元测试作为文档 #read
 - [2~3年的打工人状态——就这？](https://okjiang.github.io/2024/06/16/2-3%E5%B9%B4%E7%9A%84%E6%89%93%E5%B7%A5%E4%BA%BA%E7%8A%B6%E6%80%81%E2%80%94%E2%80%94%E5%B0%B1%E8%BF%99%EF%BC%9F/#%E8%87%B4%E8%B0%A2) 别人的三年 #summary
 - [How I Built My Blog • Josh W. Comeau](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/) #toy
 - [Server Setup Basics](https://becomesovran.com/blog/server-setup-basics.html) 能不能打旧电脑搞成服务器 #read
