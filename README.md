@@ -1,3 +1,4 @@
+- [Psychological Safety vs. High Standards: A Misunderstood Dynamic](https://www.leadingsapiens.com/psychological-safety-vs-high-standards/) #read
 - [Never Missing the Train Again, Thanks to Rust](https://lilymara.xyz/posts/2024/01/transit-kindle/) #toy
 - [Self-documenting Code](https://lackofimagination.org/2024/10/self-documenting-code/) #read
 - [#9: Unit Tests As Documentation](https://www.thecoder.cafe/p/unit-tests-as-documentation) 单元测试作为文档 #read
