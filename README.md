@@ -1,3 +1,4 @@
+- [Glassdb: transactional object storage](https://blog.mbrt.dev/posts/transactional-object-storage/) #read
 - [Lazygit Turns 5: Musings on Git, TUIs, and Open Source](https://jesseduffield.com/Lazygit-5-Years-On/) #read
 - [Psychological Safety vs. High Standards: A Misunderstood Dynamic](https://www.leadingsapiens.com/psychological-safety-vs-high-standards/) #read
 - [Never Missing the Train Again, Thanks to Rust](https://lilymara.xyz/posts/2024/01/transit-kindle/) #toy
