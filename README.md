@@ -1,3 +1,4 @@
+- [Tech Notes: The Success and Failure of Ninja](https://neugierig.org/software/blog/2020/05/ninja.html) #read
 - [Glassdb: transactional object storage](https://blog.mbrt.dev/posts/transactional-object-storage/) #read
 - [Lazygit Turns 5: Musings on Git, TUIs, and Open Source](https://jesseduffield.com/Lazygit-5-Years-On/) #read
 - [Psychological Safety vs. High Standards: A Misunderstood Dynamic](https://www.leadingsapiens.com/psychological-safety-vs-high-standards/) #read
