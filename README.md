@@ -1,3 +1,4 @@
+- [WireGuard at Modal: Static IPs for Serverless Containers](https://modal.com/blog/vprox) #read
 - [Fine! I'll Play With Skiplists](https://buttondown.com/jaffray/archive/fine-ill-play-with-skiplists/) #read
 - [Tech Notes: The Success and Failure of Ninja](https://neugierig.org/software/blog/2020/05/ninja.html) #read
 - [Glassdb: transactional object storage](https://blog.mbrt.dev/posts/transactional-object-storage/) #read
