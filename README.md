@@ -1,3 +1,4 @@
+- [A Made-up Name is Better Than No Name | Marcus' Blog](https://mbuffett.com/posts/a-made-up-name/) #read
 - [WireGuard at Modal: Static IPs for Serverless Containers](https://modal.com/blog/vprox) #read
 - [Fine! I'll Play With Skiplists](https://buttondown.com/jaffray/archive/fine-ill-play-with-skiplists/) #read
 - [Tech Notes: The Success and Failure of Ninja](https://neugierig.org/software/blog/2020/05/ninja.html) #read
