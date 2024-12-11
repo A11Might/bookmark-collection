@@ -1,3 +1,4 @@
+- [digital consumption keeps me from getting better at my job](gecicidegisken.github.io/digital-consumption.html) #read
 - [A Made-up Name is Better Than No Name | Marcus' Blog](https://mbuffett.com/posts/a-made-up-name/) #read
 - [WireGuard at Modal: Static IPs for Serverless Containers](https://modal.com/blog/vprox) #read
 - [Fine! I'll Play With Skiplists](https://buttondown.com/jaffray/archive/fine-ill-play-with-skiplists/) #read
