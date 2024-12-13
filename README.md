@@ -1,3 +1,4 @@
+- [Research!rsc：编程语言内存模型（内存模型，第 2 部分） --- research!rsc: Programming Language Memory Models (Memory Models, Part 2)](https://research.swtch.com/plmm) #read
 - [digital consumption keeps me from getting better at my job](gecicidegisken.github.io/digital-consumption.html) #read
 - [A Made-up Name is Better Than No Name | Marcus' Blog](https://mbuffett.com/posts/a-made-up-name/) #read
 - [WireGuard at Modal: Static IPs for Serverless Containers](https://modal.com/blog/vprox) #read
