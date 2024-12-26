@@ -1,3 +1,4 @@
+- [Cognitive load is what matters](https://minds.md/zakirullin/cognitive) #read
 - [There's No Such Thing As Software Productivity](https://www.benrady.com/2012/11/theres-no-such-thing-as-software-productivity.html) #read
 - [ISO 8583: The language of credit cards — Increase](https://increase.com/articles/iso-8583-the-language-of-credit-cards) #read
 - [Why Companies Overspend on Recruiting and Underspend on Retention](https://blackentropy.com/why-companies-overspend-on-recruiting-neglect-retention/) #read
