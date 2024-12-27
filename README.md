@@ -1,3 +1,4 @@
+- [The Trap of "I am not an Extrovert" | Himanshu Mishra (@OrkoHunter)](https://orkohunter.net/blog/the-trap-of-introversion/) #read
 - [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/) #read
 - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive) #read
 - [There's No Such Thing As Software Productivity](https://www.benrady.com/2012/11/theres-no-such-thing-as-software-productivity.html) #read
