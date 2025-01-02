@@ -1,3 +1,4 @@
+- [Static search trees: 40x faster than binary search](https://curiouscoding.nl/posts/static-search-tree/) #read
 - [Database mocks are just not worth it](https://www.shayon.dev/post/2024/365/database-mocks-are-just-not-worth-it/) #read
 - [The Trap of "I am not an Extrovert" | Himanshu Mishra (@OrkoHunter)](https://orkohunter.net/blog/the-trap-of-introversion/) #read
 - [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/) #read
