@@ -1,3 +1,4 @@
+- [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/) #read
 - [Developing inside a virtual machine | Georges Haidar](https://blog.disintegrator.dev/posts/dev-virtual-machine/) #read
 - [Most people don't care about quality](https://shkspr.mobi/blog/2024/12/most-people-dont-care-about-quality/) #read
 - [Static search trees: 40x faster than binary search](https://curiouscoding.nl/posts/static-search-tree/) #read
