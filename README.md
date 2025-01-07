@@ -1,3 +1,4 @@
+- [Go East, Young Man!, by zygomorph](https://www.crazyguyonabike.com/doc/?doc_id=26078) #read
 - [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/) #read
 - [Developing inside a virtual machine | Georges Haidar](https://blog.disintegrator.dev/posts/dev-virtual-machine/) #read
 - [Most people don't care about quality](https://shkspr.mobi/blog/2024/12/most-people-dont-care-about-quality/) #read
