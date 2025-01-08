@@ -1,3 +1,4 @@
+- [Laid Off for the First Time In My Career, and Twice In One Year - Dillon Shook](https://dillonshook.com/laid-off/) #read
 - [Go East, Young Man!, by zygomorph](https://www.crazyguyonabike.com/doc/?doc_id=26078) #read
 - [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/) #read
 - [Developing inside a virtual machine | Georges Haidar](https://blog.disintegrator.dev/posts/dev-virtual-machine/) #read
