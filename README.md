@@ -1,3 +1,4 @@
+- [Ratchet effects determine engineer reputation at large companies](https://www.seangoedecke.com/ratchet-effects/) #read
 - [crawshaw - 2025-01-06](https://crawshaw.io/blog/programming-with-llms) #read
 - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/) #read
 - [Laid Off for the First Time In My Career, and Twice In One Year - Dillon Shook](https://dillonshook.com/laid-off/) #read
