@@ -1,3 +1,4 @@
+- [Link blog in a static site](http://rednafi.com/misc/link_blog/) #read
 - [Ratchet effects determine engineer reputation at large companies](https://www.seangoedecke.com/ratchet-effects/) #read
 - [crawshaw - 2025-01-06](https://crawshaw.io/blog/programming-with-llms) #read
 - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/) #read
