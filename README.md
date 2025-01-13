@@ -1,3 +1,4 @@
+- [I spent 18 years in the Linux console and I don’t regret it](https://eugene-andrienko.com/en/it/2024/01/02/life-in-console.html) #read
 - [Link blog in a static site](http://rednafi.com/misc/link_blog/) #read
 - [Ratchet effects determine engineer reputation at large companies](https://www.seangoedecke.com/ratchet-effects/) #read
 - [crawshaw - 2025-01-06](https://crawshaw.io/blog/programming-with-llms) #read
