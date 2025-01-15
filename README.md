@@ -1,3 +1,4 @@
+- [Using Coding Skills to Make Passive Income](https://www.coryzue.com/writing/solopreneur/) 独立开发 #read
 - [How rqlite is tested – Vallified](https://philipotoole.com/how-is-rqlite-tested/) mit6.824可以参考下rqlite #read
 - [I spent 18 years in the Linux console and I don’t regret it](https://eugene-andrienko.com/en/it/2024/01/02/life-in-console.html) #read
 - [Link blog in a static site](http://rednafi.com/misc/link_blog/) #read
