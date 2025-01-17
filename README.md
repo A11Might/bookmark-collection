@@ -1,3 +1,4 @@
+- [Learn Yjs by Jamsocket](https://learn.yjs.dev/) sse是不是也可以实现 #toy
 - [Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/) HTMX #read
 - [Using Coding Skills to Make Passive Income](https://www.coryzue.com/writing/solopreneur/) 独立开发 #read
 - [How rqlite is tested – Vallified](https://philipotoole.com/how-is-rqlite-tested/) mit6.824可以参考下rqlite #read
