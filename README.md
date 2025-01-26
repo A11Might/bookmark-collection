@@ -1,3 +1,4 @@
+- [Reverse Engineering My #1 Hacker News Article](https://danielwirtz.com/blog/successful-hacker-news-article) 如何写出爆款博客 #study
 - [Oh Shit, Git!?!](https://ohshitgit.com/) git实践 #read
 - [Learn Yjs by Jamsocket](https://learn.yjs.dev/) sse是不是也可以实现 #toy
 - [Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/) HTMX #read
