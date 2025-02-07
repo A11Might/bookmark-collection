@@ -1,3 +1,4 @@
+- [Chat is a bad UI pattern for development tools—Daniel De Laney](http://danieldelaney.net/chat/) ai编程，no #read
 - [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/) 分布式系统 #study
 - [Reverse Engineering My #1 Hacker News Article](https://danielwirtz.com/blog/successful-hacker-news-article) 如何写出爆款博客 #study
 - [Oh Shit, Git!?!](https://ohshitgit.com/) git实践 #read
