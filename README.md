@@ -1,3 +1,4 @@
+- [Patterns for building realtime features](https://zknill.io/posts/patterns-for-building-realtime/) 实时系统构建 #study
 - [Don't be Frupid](https://selix.net/notes/dont-be-frupid) #read
 - [Chat is a bad UI pattern for development tools—Daniel De Laney](http://danieldelaney.net/chat/) ai编程，no #read
 - [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/) 分布式系统 #study
