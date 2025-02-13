@@ -1,3 +1,4 @@
+- [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/) unicode编码 #read
 - [Patterns for building realtime features](https://zknill.io/posts/patterns-for-building-realtime/) 实时系统构建 #study
 - [Don't be Frupid](https://selix.net/notes/dont-be-frupid) #read
 - [Chat is a bad UI pattern for development tools—Daniel De Laney](http://danieldelaney.net/chat/) ai编程，no #read
