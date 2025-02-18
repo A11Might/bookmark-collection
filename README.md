@@ -1,3 +1,4 @@
+- [searchcode.com’s SQLite database is probably 6 terabytes bigger than yours | Ben E. C. Boyter](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/) 博客 #read
 - [🏆 100 Most Watched Software Engineering Talks Of 2024](https://www.techtalksweekly.io/p/100-most-watched-software-engineering) 讲座视频 #read
 - [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/) unicode编码 #read
 - [Patterns for building realtime features](https://zknill.io/posts/patterns-for-building-realtime/) 实时系统构建 #study
