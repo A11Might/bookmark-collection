@@ -1,3 +1,4 @@
+- [Ask for no, don’t ask for yes – Dan Moore!](https://www.mooreds.com/wordpress/archives/3518) 申请的方式？ #read
 - [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/) 大模型工作流 #read
 - [searchcode.com’s SQLite database is probably 6 terabytes bigger than yours | Ben E. C. Boyter](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/) 博客 #read
 - [🏆 100 Most Watched Software Engineering Talks Of 2024](https://www.techtalksweekly.io/p/100-most-watched-software-engineering) 讲座视频 #read
