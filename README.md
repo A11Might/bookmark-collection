@@ -1,3 +1,4 @@
+- [Should managers still code?](https://theengineeringmanager.substack.com/p/should-managers-still-code) #read
 - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/) git config最佳实践 #read
 - [Ask for no, don’t ask for yes – Dan Moore!](https://www.mooreds.com/wordpress/archives/3518) 申请的方式？ #read
 - [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/) 大模型工作流 #read
