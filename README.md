@@ -1,3 +1,4 @@
+- [The Inspection Paradox is Everywhere](http://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html) 很有道理 #fun
 - [Should managers still code?](https://theengineeringmanager.substack.com/p/should-managers-still-code) #read
 - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/) git config最佳实践 #read
 - [Ask for no, don’t ask for yes – Dan Moore!](https://www.mooreds.com/wordpress/archives/3518) 申请的方式？ #read
