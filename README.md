@@ -1,3 +1,4 @@
+- [Introduction - Model Context Protocol](https://modelcontextprotocol.io/introduction) mcp #study
 - [50 things we’ve learned about building successful products](https://newsletter.posthog.com/p/50-things-weve-learned-about-building) #read
 - [Tmux - the essentials](https://davidwinter.dev/2019/03/14/tmux-the-essentials/) my tmux config #read
 - [Why writing small docs is a game changer – BufferBuffer](https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer/) #read
