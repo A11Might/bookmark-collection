@@ -1,3 +1,4 @@
+- [Generative AI Hype Peaking](https://bjornwestergard.com/generative-ai-hype-peaking/) #read
 - [Shae Erisson's blog - The github plugin my coworkers asked me not to write.](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html) #read
 - [Backup Strategies: Why the 3-2-1 Backup Strategy is the Best](https://www.backblaze.com/blog/the-3-2-1-backup-strategy/) #read
 - [Introduction - Model Context Protocol](https://modelcontextprotocol.io/introduction) mcp #study
