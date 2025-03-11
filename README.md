@@ -1,3 +1,4 @@
+- [Shae Erisson's blog - The github plugin my coworkers asked me not to write.](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html) #read
 - [Backup Strategies: Why the 3-2-1 Backup Strategy is the Best](https://www.backblaze.com/blog/the-3-2-1-backup-strategy/) #read
 - [Introduction - Model Context Protocol](https://modelcontextprotocol.io/introduction) mcp #study
 - [50 things we’ve learned about building successful products](https://newsletter.posthog.com/p/50-things-weve-learned-about-building) #read
