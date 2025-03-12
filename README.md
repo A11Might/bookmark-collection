@@ -1,3 +1,4 @@
+- [What Makes Code Hard To Read: Visual Patterns of Complexity](https://seeinglogic.com/posts/visual-readability-patterns/) 一个月后最有可能阅读你代码的人就是你 #read
 - [Hyrum's Law in Golang / Abenezer Belachew](https://abenezerbelachew.com/blog/hyrum-law-in-golang) #read
 - [Generative AI Hype Peaking](https://bjornwestergard.com/generative-ai-hype-peaking/) #read
 - [Shae Erisson's blog - The github plugin my coworkers asked me not to write.](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html) #read
