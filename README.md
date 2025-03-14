@@ -1,3 +1,4 @@
+- [Coding a real-time dashboard for Kubernetes](https://learnk8s.io/real-time-dashboard) k8s Informer  #study
 - [Nick Craux](https://www.nickcraux.com/blog/cursor-tips) code with ai #read
 - [What Makes Code Hard To Read: Visual Patterns of Complexity](https://seeinglogic.com/posts/visual-readability-patterns/) 一个月后最有可能阅读你代码的人就是你 #read
 - [Hyrum's Law in Golang / Abenezer Belachew](https://abenezerbelachew.com/blog/hyrum-law-in-golang) #read
