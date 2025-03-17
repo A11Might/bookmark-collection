@@ -1,3 +1,4 @@
+- [The good times in tech are over](https://www.seangoedecke.com/good-times-are-over/) 大环境问题 #read
 - [Coding a real-time dashboard for Kubernetes](https://learnk8s.io/real-time-dashboard) k8s Informer  #study
 - [Nick Craux](https://www.nickcraux.com/blog/cursor-tips) code with ai #read
 - [What Makes Code Hard To Read: Visual Patterns of Complexity](https://seeinglogic.com/posts/visual-readability-patterns/) 一个月后最有可能阅读你代码的人就是你 #read
