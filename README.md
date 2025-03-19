@@ -1,3 +1,4 @@
+- [Please stop externalizing your costs directly into my face](https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html) #read
 - [Block YouTube Ads on AppleTV by Decrypting and Stripping Ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/) 路由器解析protobuf #read
 - [AI is Making Developers Dumb](https://eli.cx/blog/ai-is-making-developers-dumb) llm依赖症 #read
 - [The good times in tech are over](https://www.seangoedecke.com/good-times-are-over/) 大环境问题 #read
