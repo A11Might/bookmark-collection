@@ -1,3 +1,4 @@
+- [Building and deploying a custom site using GitHub Actions and GitHub Pages](https://til.simonwillison.net/github-actions/github-pages) 自定义github pages #read
 - [Unionize.fyi](https://unionize.fyi/) 996 #read
 - [Please stop externalizing your costs directly into my face](https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html) #read
 - [Block YouTube Ads on AppleTV by Decrypting and Stripping Ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/) 路由器解析protobuf #read
