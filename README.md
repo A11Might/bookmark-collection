@@ -1,3 +1,4 @@
+- [I won't connect my dishwasher to your stupid cloud | Jeff Geerling](https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud) 阴谋论部分很有意思 #read
 - [Building and deploying a custom site using GitHub Actions and GitHub Pages](https://til.simonwillison.net/github-actions/github-pages) 自定义github pages #read
 - [Unionize.fyi](https://unionize.fyi/) 996 #read
 - [Please stop externalizing your costs directly into my face](https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html) #read
