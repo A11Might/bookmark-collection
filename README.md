@@ -1,3 +1,4 @@
+- [HN Popularity Contest](https://refactoringenglish.com/tools/hn-popularity/) #read
 - [Aizk's Site](https://www.aizk.sh/posts/reflecting-on-wikitok) 什么时候用ai #read
 - [I won't connect my dishwasher to your stupid cloud | Jeff Geerling](https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud) 阴谋论部分很有意思 #read
 - [Building and deploying a custom site using GitHub Actions and GitHub Pages](https://til.simonwillison.net/github-actions/github-pages) 自定义github pages #read
