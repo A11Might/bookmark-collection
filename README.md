@@ -1,3 +1,4 @@
+- [Self Hosting Like Its 2025](https://kiranet.org/posts/self-hosting-like-its-2025/) vps相关软件 #try
 - [AI Agents: Less Capability, More Reliability, Please](https://www.sergey.fyi/articles/reliability-vs-capability) ai agent痛点 #read
 - [Why I'm Breaking Up With Vibe Coding](https://www.lucasaguiar.xyz/posts/vibe-coding-pitfalls/) vibe coding #read
 - [Hacker Laws](https://hacker-laws.com/) #read
