@@ -1,3 +1,4 @@
+- [Get the hell out of the LLM as soon as possible | sgnt.ai](https://example.com/p/hell-out-of-llms/) ai能干什么，不能干什么 #read
 - [The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/) ai应用的另一角度思考？ #read
 - [Self Hosting Like Its 2025](https://kiranet.org/posts/self-hosting-like-its-2025/) vps相关软件 #try
 - [AI Agents: Less Capability, More Reliability, Please](https://www.sergey.fyi/articles/reliability-vs-capability) ai agent痛点 #read
