@@ -1,3 +1,4 @@
+- [Less htmx is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/) htmx使用心得 #study
 - [The Best Programmers I Know | Matthias Endler](https://endler.dev/2025/best-programmers/) 怎样做一个好的程序员 #read
 - [TIL: Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/) #read
 - [The blissful zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project) 有什么样奇思妙想都不重要，重要的是尝试落地的过程 #read
