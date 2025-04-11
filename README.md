@@ -1,3 +1,4 @@
+- [As an engineer, I’d rather be called stupid than stay silent](https://shiftmag.dev/asking-questions-engineering-career-advice-4895/) 很真实，害怕别人把自己当啥子 #read
 - [Less htmx is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/) htmx使用心得 #study
 - [The Best Programmers I Know | Matthias Endler](https://endler.dev/2025/best-programmers/) 怎样做一个好的程序员 #read
 - [TIL: Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/) #read
