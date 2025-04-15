@@ -1,3 +1,4 @@
+- [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs) vibe coding让编码更有趣 #read
 - [As an engineer, I’d rather be called stupid than stay silent](https://shiftmag.dev/asking-questions-engineering-career-advice-4895/) 很真实，害怕别人把自己当啥子 #read
 - [Less htmx is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/) htmx使用心得 #study
 - [The Best Programmers I Know | Matthias Endler](https://endler.dev/2025/best-programmers/) 怎样做一个好的程序员 #read
