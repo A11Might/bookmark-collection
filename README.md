@@ -1,3 +1,4 @@
+- [Trapping misbehaving bots in an AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/) 高级反爬：ai蜜罐 #read
 - [The Post-Developer Era • Josh W. Comeau](https://www.joshwcomeau.com/blog/the-post-developer-era/) ai至少现在不会取代人类 #read
 - [The Problem with “Vibe Coding” : dylanbeattie.net](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html) 什么是vibe coding #read
 - [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs) vibe coding让编码更有趣 #read
