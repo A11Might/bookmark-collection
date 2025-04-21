@@ -1,3 +1,4 @@
+- [The skill of the future is not 'AI', but 'Focus'](https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/) ai惰性 #read
 - [Trapping misbehaving bots in an AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/) 高级反爬：ai蜜罐 #read
 - [The Post-Developer Era • Josh W. Comeau](https://www.joshwcomeau.com/blog/the-post-developer-era/) ai至少现在不会取代人类 #read
 - [The Problem with “Vibe Coding” : dylanbeattie.net](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html) 什么是vibe coding #read
