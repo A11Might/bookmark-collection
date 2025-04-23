@@ -1,3 +1,4 @@
+- [The Logical Optimist - how long it takes to create a new habit](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/) 习惯形成平均需要66天 #read
 - [The skill of the future is not 'AI', but 'Focus'](https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/) ai惰性 #read
 - [Trapping misbehaving bots in an AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/) 高级反爬：ai蜜罐 #read
 - [The Post-Developer Era • Josh W. Comeau](https://www.joshwcomeau.com/blog/the-post-developer-era/) ai至少现在不会取代人类 #read
