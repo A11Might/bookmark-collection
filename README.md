@@ -1,3 +1,4 @@
+- [AI Horseless Carriages | koomen.dev](https://koomen.dev/essays/horseless-carriages/) ai应用？ai原生应用！ #read
 - [Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/) 在老健身房锻炼代码肌肉 #read
 - [The Logical Optimist - how long it takes to create a new habit](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/) 习惯形成平均需要66天 #read
 - [The skill of the future is not 'AI', but 'Focus'](https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/) ai惰性 #read
