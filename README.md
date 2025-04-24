@@ -1,3 +1,4 @@
+- [How I write my blogs in Obsidian and publish instantly](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/) cloudflare部署博客 #read
 - [AI Horseless Carriages | koomen.dev](https://koomen.dev/essays/horseless-carriages/) ai应用？ai原生应用！ #read
 - [Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/) 在老健身房锻炼代码肌肉 #read
 - [The Logical Optimist - how long it takes to create a new habit](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/) 习惯形成平均需要66天 #read
