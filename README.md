@@ -1,3 +1,4 @@
+- [Assignment 5: Cars and Key Fobs](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html) 现在的汽车钥匙还是这个原理吗 #read
 - [On loyalty to your employer](https://medium.com/hackernoon/on-loyalty-to-your-employer-c674c4b06b3a) 工作只是工作 #read
 - [How I write my blogs in Obsidian and publish instantly](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/) cloudflare部署博客 #read
 - [AI Horseless Carriages | koomen.dev](https://koomen.dev/essays/horseless-carriages/) ai应用？ai原生应用！ #read
