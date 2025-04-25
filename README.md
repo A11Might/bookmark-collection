@@ -1,3 +1,4 @@
+- [On loyalty to your employer](https://medium.com/hackernoon/on-loyalty-to-your-employer-c674c4b06b3a) 工作只是工作 #read
 - [How I write my blogs in Obsidian and publish instantly](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/) cloudflare部署博客 #read
 - [AI Horseless Carriages | koomen.dev](https://koomen.dev/essays/horseless-carriages/) ai应用？ai原生应用！ #read
 - [Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/) 在老健身房锻炼代码肌肉 #read
