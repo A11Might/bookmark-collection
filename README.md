@@ -1,3 +1,4 @@
+- [Just fucking use HTML](https://justfuckingusehtml.com) html最棒 #read
 - [How to title your blog post or whatever](https://dynomight.net/titles/) 如何取标题 #read
 - [How I Got Exploited At My First Startup](https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell) 创业公司的坑 #read
 - [Assignment 5: Cars and Key Fobs](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html) 现在的汽车钥匙还是这个原理吗 #read
