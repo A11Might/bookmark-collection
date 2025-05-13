@@ -1,3 +1,4 @@
+- [Creating a static website for all my bookmarks](https://alexwlchan.net/2025/bookmarks-static-site/) 广义书签收集 #read
 - [Embeddings are underrated](https://technicalwriting.dev/ml/embeddings/overview.html) 嵌入101 #read
 - [Just fucking use HTML](https://justfuckingusehtml.com) html最棒 #read
 - [How to title your blog post or whatever](https://dynomight.net/titles/) 如何取标题 #read
