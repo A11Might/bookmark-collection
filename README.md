@@ -1,3 +1,4 @@
+- [I failed a take-home assignment from Kagi Search - Bloggeroo](https://bloggeroo.dev/articles/202504031434) 找工作被白嫖 #read
 - [The Perverse Incentives of Vibe Coding](https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee) ai回答冗余的原因和解决方法 #read
 - [What is HDR, anyway?](https://www.lux.camera/what-is-hdr/) 科普文：什么是HDR #read
 - [Luke Kanies | AI Is Like a Crappy Consultant](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/) 使用ai写前端时候深有感受，但我目前只停留在第一阶段，还要努力 #read
