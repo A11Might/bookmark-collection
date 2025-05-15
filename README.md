@@ -1,3 +1,4 @@
+- [What is HDR, anyway?](https://www.lux.camera/what-is-hdr/) 科普文：什么是HDR #read
 - [Luke Kanies | AI Is Like a Crappy Consultant](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/) 使用ai写前端时候深有感受，但我目前只停留在第一阶段，还要努力 #read
 - [In a high-stress work environment, prioritize relationships](https://wqtz.bearblog.dev/high-stress-job-relationships/) 保持同事关系和睦 #read
 - [Creating a static website for all my bookmarks](https://alexwlchan.net/2025/bookmarks-static-site/) 广义书签收集 #read
