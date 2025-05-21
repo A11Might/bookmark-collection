@@ -1,3 +1,4 @@
+- [A simple search engine from scratch*](https://bernsteinbear.com/blog/simple-search/) 尝试一下写个搜索引擎 #toy
 - [Thoughts on thinking • Dustin Curtis](https://dcurt.is/thinking) 确实有ai了，我还写啥东西 #read
 - [After months of coding with LLMs, I'm going back to using my brain • albertofortin.com](https://albertofortin.com/writing/coding-with-ai) verb coding +1 #read
 - [I failed a take-home assignment from Kagi Search - Bloggeroo](https://bloggeroo.dev/articles/202504031434) 找工作被白嫖 #read
