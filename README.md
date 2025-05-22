@@ -1,3 +1,4 @@
+- [Collaborative Text Editing without CRDTs or OT - Matthew Weidner](https://mattweidner.com/2025/05/21/text-without-crdts.html) google doc design #study
 - [A simple search engine from scratch*](https://bernsteinbear.com/blog/simple-search/) 尝试一下写个搜索引擎 #toy
 - [Thoughts on thinking • Dustin Curtis](https://dcurt.is/thinking) 确实有ai了，我还写啥东西 #read
 - [After months of coding with LLMs, I'm going back to using my brain • albertofortin.com](https://albertofortin.com/writing/coding-with-ai) verb coding +1 #read
