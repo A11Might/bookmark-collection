@@ -1,3 +1,4 @@
+- [Engineers who won’t commit](https://www.seangoedecke.com/taking-a-position/#fn-1) 承诺 or 不承诺，that's a question #read
 - [Five Boring Things That Have A Bigger Impact Than “A.I.” Coding Assistants On Dev Team Productivity](https://codemanship.wordpress.com/2025/05/21/five-boring-things-that-have-a-bigger-impact-than-a-i-coding-assistants-on-dev-team-productivity/) #read
 - [Collaborative Text Editing without CRDTs or OT - Matthew Weidner](https://mattweidner.com/2025/05/21/text-without-crdts.html) google doc design #study
 - [A simple search engine from scratch*](https://bernsteinbear.com/blog/simple-search/) 尝试一下写个搜索引擎 #toy
