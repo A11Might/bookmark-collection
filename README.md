@@ -1,3 +1,4 @@
+- [AI: Accelerated Incompetence](https://www.slater.dev/accelerated-incompetence/) llm取代人类？ #read
 - [The Recurring Cycle of 'Developer Replacement' Hype](https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/) #read
 - [You probably don't need a DI framework](http://rednafi.com/go/di_frameworks_bleh/) golang di教程 #study
 - [Find Your People](https://foundersatwork.posthaven.com/find-your-people) #read
