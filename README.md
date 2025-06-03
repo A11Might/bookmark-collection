@@ -1,3 +1,4 @@
+- [The Recurring Cycle of 'Developer Replacement' Hype](https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/) #read
 - [You probably don't need a DI framework](http://rednafi.com/go/di_frameworks_bleh/) golang di教程 #study
 - [Find Your People](https://foundersatwork.posthaven.com/find-your-people) #read
 - [Engineers who won’t commit](https://www.seangoedecke.com/taking-a-position/#fn-1) 承诺 or 不承诺，that's a question #read
