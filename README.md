@@ -1,3 +1,4 @@
+- [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/) 与ai共生 #read
 - [The Prompt Engineering Playbook for Programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for) ai编程提示词 #read
 - [AI: Accelerated Incompetence](https://www.slater.dev/accelerated-incompetence/) llm取代人类？ #read
 - [The Recurring Cycle of 'Developer Replacement' Hype](https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/) #read
