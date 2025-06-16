@@ -1,3 +1,4 @@
+- [Writing Toy Software Is A Joy | Joshua Barretto](https://www.jsbarretto.com/blog/software-is-joy/) 为什么要造轮子 #read
 - [Part 7: Office Migration from Source Depot to Git, or how I learned to love DevEx. | Daniel Sada Caraveo | Developer Productivity & Culture](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/) 很好的一次公司层面的协作例子，包括背景、过程和结果 #read
 - [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/) 与ai共生 #read
 - [The Prompt Engineering Playbook for Programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for) ai编程提示词 #read
