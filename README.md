@@ -1,3 +1,4 @@
+- [I want to be a Journey Programmer Again](https://hexhowells.com/posts/journey.html) 享受编程的过程，而不是等待ai响应 #read#ai
 - [Writing Toy Software Is A Joy | Joshua Barretto](https://www.jsbarretto.com/blog/software-is-joy/) 为什么要造轮子 #read
 - [Part 7: Office Migration from Source Depot to Git, or how I learned to love DevEx. | Daniel Sada Caraveo | Developer Productivity & Culture](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/) 很好的一次公司层面的协作例子，包括背景、过程和结果 #read
 - [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/) 与ai共生 #read
