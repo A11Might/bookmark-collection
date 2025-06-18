@@ -1,3 +1,4 @@
+- [What Google Translate Can Tell Us About Vibecoding | Ingrid's Space](https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/) 用谷歌翻译是否代替翻译类比vibeCoding能够代替程序员 #read#ai
 - [How to Read Code](https://www.codedump.info/en/post/20200605-how-to-read-code/) 如何阅读代码 #read
 - [OpenTelemetry for Go: measuring the overhead](https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/) 可观测101 #read
 - [I want to be a Journey Programmer Again](https://hexhowells.com/posts/journey.html) 享受编程的过程，而不是等待ai响应 #read#ai
