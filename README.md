@@ -1,3 +1,4 @@
+- [Writing documentation for AI: best practices | kapa.ai docs](https://docs.kapa.ai/improving/writing-best-practices) 适合rga的文档是什么样的 #read
 - [What Google Translate Can Tell Us About Vibecoding | Ingrid's Space](https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/) 用谷歌翻译是否代替翻译类比vibeCoding能够代替程序员 #read#ai
 - [How to Read Code](https://www.codedump.info/en/post/20200605-how-to-read-code/) 如何阅读代码 #read
 - [OpenTelemetry for Go: measuring the overhead](https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/) 可观测101 #read
