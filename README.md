@@ -1,3 +1,4 @@
+- [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html) linux管道原理 #read
 - [AI system development: LLM → RAG → AI Workflow → AI Agent | CodeLink](https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent) llm的发展 #read
 - [What Would a Kubernetes 2.0 Look Like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/) k8s1.0有哪些能改进的地方 #read
 - [grokking NAT and packet mangling in linux](https://vivekn.dev/blog/grokking-nat-and-packet-mangling-in-linux) #read
