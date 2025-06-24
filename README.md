@@ -1,3 +1,4 @@
+- [selfhosted-apps-docker/caddy_v2 at master · DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker/tree/master/caddy_v2) Caddy反向代理使用说明 #read
 - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html) linux管道原理 #read
 - [AI system development: LLM → RAG → AI Workflow → AI Agent | CodeLink](https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent) llm的发展 #read
 - [What Would a Kubernetes 2.0 Look Like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/) k8s1.0有哪些能改进的地方 #read
