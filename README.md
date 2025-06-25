@@ -1,3 +1,4 @@
+- [Experiment on your code freely with Git worktree](https://opensource.com/article/21/4/git-worktree) git worktree101 #read
 - [Writing Toy Software Is A Joy](https://blog.jsbarretto.com/post/software-is-joy) 造轮子的乐趣 #read
 - [Hello Dify - 全网最齐全的免费Dify教程与最佳实践](https://hellodify.com/zh/docs) dify101 #read
 - [selfhosted-apps-docker/caddy_v2 at master · DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker/tree/master/caddy_v2) Caddy反向代理使用说明 #read
