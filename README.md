@@ -1,3 +1,4 @@
+- [Hello Dify - 全网最齐全的免费Dify教程与最佳实践](https://hellodify.com/zh/docs) dify101 #read
 - [selfhosted-apps-docker/caddy_v2 at master · DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker/tree/master/caddy_v2) Caddy反向代理使用说明 #read
 - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html) linux管道原理 #read
 - [AI system development: LLM → RAG → AI Workflow → AI Agent | CodeLink](https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent) llm的发展 #read
