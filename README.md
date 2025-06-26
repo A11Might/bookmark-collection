@@ -1,3 +1,4 @@
+- [How to Write Compelling Software Release Announcements](https://refactoringenglish.com/chapters/release-announcements/) 如何写release说明 #read
 - [Experiment on your code freely with Git worktree](https://opensource.com/article/21/4/git-worktree) git worktree101 #read
 - [Writing Toy Software Is A Joy](https://blog.jsbarretto.com/post/software-is-joy) 造轮子的乐趣 #read
 - [Hello Dify - 全网最齐全的免费Dify教程与最佳实践](https://hellodify.com/zh/docs) dify101 #read
