@@ -1,3 +1,4 @@
+- [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck) 写代码本来就不是瓶颈，别说用ai写代码了 #ai#read
 - [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/zh_CN/) 布隆过滤器101 #study
 - [How to Write Compelling Software Release Announcements](https://refactoringenglish.com/chapters/release-announcements/) 如何写release说明 #read
 - [Experiment on your code freely with Git worktree](https://opensource.com/article/21/4/git-worktree) git worktree101 #read
