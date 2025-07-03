@@ -1,3 +1,4 @@
+- [Why I'm Dialing Back My LLM Usage - Zed Blog](https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin) vibe coding泡沫 #ai#read
 - [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck) 写代码本来就不是瓶颈，别说用ai写代码了 #ai#read
 - [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/zh_CN/) 布隆过滤器101 #study
 - [How to Write Compelling Software Release Announcements](https://refactoringenglish.com/chapters/release-announcements/) 如何写release说明 #read
