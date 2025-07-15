@@ -1,3 +1,4 @@
+- [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/) 如何快速做需求 #read
 - [SVGs that feel like GIFs](https://koaning.io/posts/svg-gifs/) svg动图 #read
 - [Spegel - A Terminal Browser That Uses LLMs to Rewrite Webpages](https://simedw.com/2025/06/23/introducing-spegel/) 终端llm浏览器 #read
 - [Why I'm Dialing Back My LLM Usage - Zed Blog](https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin) vibe coding泡沫 #ai#read
