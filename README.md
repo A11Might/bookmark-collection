@@ -1,3 +1,4 @@
+- [Artisanal Handcrafted Git Repositories | drew's dev blog](https://drew.silcock.dev/blog/artisanal-git/) git仓库原理 #read
 - [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/) 如何快速做需求 #read
 - [SVGs that feel like GIFs](https://koaning.io/posts/svg-gifs/) svg动图 #read
 - [Spegel - A Terminal Browser That Uses LLMs to Rewrite Webpages](https://simedw.com/2025/06/23/introducing-spegel/) 终端llm浏览器 #read
