@@ -1,3 +1,4 @@
+- [Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/) 计算机数学101 #read
 - [Artisanal Handcrafted Git Repositories | drew's dev blog](https://drew.silcock.dev/blog/artisanal-git/) git仓库原理 #read
 - [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/) 如何快速做需求 #read
 - [SVGs that feel like GIFs](https://koaning.io/posts/svg-gifs/) svg动图 #read
