@@ -1,3 +1,4 @@
+- [Six Principles for Production AI Agents](https://www.app.build/blog/six-principles-production-ai-agents) 如何用好ai agent #read
 - [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html) 花10年学习编程（1w小时定律变种） #read
 - [Claude Code 是一个老虎机 --- Claude Code is a Slot Machine](https://rgoldfinger.com/blog/2025-07-26-claude-code-is-a-slot-machine/) vibe coding就像老虎机 #read
 - [Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/) 计算机数学101 #read
