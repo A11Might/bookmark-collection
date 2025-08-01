@@ -1,3 +1,4 @@
+- [AI is a Floor Raiser, not a Ceiling Raiser - Elroy](https://elroy.bot/blog/2025/07/29/ai-is-a-floor-raiser-not-a-ceiling-raiser.html) ai领进门修行看个人 #read#ai
 - [Six Principles for Production AI Agents](https://www.app.build/blog/six-principles-production-ai-agents) 如何用好ai agent #read
 - [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html) 花10年学习编程（1w小时定律变种） #read
 - [Claude Code 是一个老虎机 --- Claude Code is a Slot Machine](https://rgoldfinger.com/blog/2025-07-26-claude-code-is-a-slot-machine/) vibe coding就像老虎机 #read
