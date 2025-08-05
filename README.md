@@ -1,3 +1,4 @@
+- [blog/htmx-is-hard-so-lets-get-it-right.md at master · BookOfCooks/blog](https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md) htmx实战 #study
 - [Writing a good design document](https://grantslatton.com/how-to-design-document) 如何写好设计文档 #read
 - [If you're remote, ramble](https://stephango.com/ramblings) 一个人也可以写一些闲聊内容 #read
 - [AI is a Floor Raiser, not a Ceiling Raiser - Elroy](https://elroy.bot/blog/2025/07/29/ai-is-a-floor-raiser-not-a-ceiling-raiser.html) ai领进门修行看个人 #read#ai
