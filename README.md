@@ -1,3 +1,4 @@
+- [向量数据库](https://guangzhengli.com/blog/zh/vector-database) 向量数据库101 #read#ai
 - [blog/htmx-is-hard-so-lets-get-it-right.md at master · BookOfCooks/blog](https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md) htmx实战 #study
 - [Writing a good design document](https://grantslatton.com/how-to-design-document) 如何写好设计文档 #read
 - [If you're remote, ramble](https://stephango.com/ramblings) 一个人也可以写一些闲聊内容 #read
