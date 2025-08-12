@@ -1,3 +1,4 @@
+- [Aman's AI Journal • Primers • Agents](https://aman.ai/primers/ai/agents/) agent 101 #read#ai
 - [Claude Code Is All You Need](https://dwyer.co.za/static/claude-code-is-all-you-need.html) cc 101 #read#ai
 - [I Tried Every Todo App and Ended Up With a .txt File - Alireza Bashiri](https://www.al3rez.com/todo-txt-journey) #read
 - [I tried coding with AI, I became lazy and stupid](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid) 感觉我现在就是survival mode #read#ai
