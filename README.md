@@ -1,3 +1,4 @@
+- [I Tried Every Todo App and Ended Up With a .txt File - Alireza Bashiri](https://www.al3rez.com/todo-txt-journey) #read
 - [I tried coding with AI, I became lazy and stupid](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid) 感觉我现在就是survival mode #read#ai
 - [向量数据库](https://guangzhengli.com/blog/zh/vector-database) 向量数据库101 #read#ai
 - [blog/htmx-is-hard-so-lets-get-it-right.md at master · BookOfCooks/blog](https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md) htmx实战 #study
