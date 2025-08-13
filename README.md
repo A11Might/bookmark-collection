@@ -1,3 +1,4 @@
+- [100R — weathering software winter](https://100r.co/site/weathering_software_winter.html) #read
 - [Designing Software in the Large](https://dafoster.net/articles/2025/07/22/designing-software-in-the-large/) 《软件设计哲学》读书笔记 #study
 - [Aman's AI Journal • Primers • Agents](https://aman.ai/primers/ai/agents/) agent 101 #read#ai
 - [Claude Code Is All You Need](https://dwyer.co.za/static/claude-code-is-all-you-need.html) cc 101 #read#ai
