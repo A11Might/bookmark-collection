@@ -1,3 +1,4 @@
+- [Why LLMs Can't Really Build Software - Zed Blog](https://zed.dev/blog/why-llms-cant-build-software) 工程师和ai的区别 #read#ai
 - [Cross-Site Request Forgery](https://words.filippo.io/csrf/) csrf 101 #read
 - [100R — weathering software winter](https://100r.co/site/weathering_software_winter.html) #read
 - [Designing Software in the Large](https://dafoster.net/articles/2025/07/22/designing-software-in-the-large/) 《软件设计哲学》读书笔记 #study
