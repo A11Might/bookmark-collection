@@ -1,3 +1,4 @@
+- [CRDT: Text Buffer - Made by Evan](https://madebyevan.com/algos/crdt-text-buffer/) CRDT 共享文档编辑算法 #study
 - [Do Things that Don't Scale](https://paulgraham.com/ds.html) 创业指南 #read
 - [Why LLMs Can't Really Build Software - Zed Blog](https://zed.dev/blog/why-llms-cant-build-software) 工程师和ai的区别 #read#ai
 - [Cross-Site Request Forgery](https://words.filippo.io/csrf/) csrf 101 #read
