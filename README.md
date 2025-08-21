@@ -1,3 +1,4 @@
+- [Linux Performance Analysis in 60,000 Milliseconds](http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html) linux性能分析 #read
 - [CRDT: Text Buffer - Made by Evan](https://madebyevan.com/algos/crdt-text-buffer/) CRDT 共享文档编辑算法 #study
 - [Do Things that Don't Scale](https://paulgraham.com/ds.html) 创业指南 #read
 - [Why LLMs Can't Really Build Software - Zed Blog](https://zed.dev/blog/why-llms-cant-build-software) 工程师和ai的区别 #read#ai
