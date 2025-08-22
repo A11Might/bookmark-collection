@@ -1,3 +1,4 @@
+- [how to stop feeling lost in tech: the wafflehouse method](https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech) 迷茫->规划->行动 #read
 - [Linux Performance Analysis in 60,000 Milliseconds](http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html) linux性能分析 #read
 - [CRDT: Text Buffer - Made by Evan](https://madebyevan.com/algos/crdt-text-buffer/) CRDT 共享文档编辑算法 #study
 - [Do Things that Don't Scale](https://paulgraham.com/ds.html) 创业指南 #read
