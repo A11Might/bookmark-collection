@@ -1,3 +1,4 @@
+- [The Four Styles of Confidence on a Team | Adam Smith](https://adamsmith.cc/the-four-styles-of-confidence-on-a-team/) 关于自信 #read
 - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/) #read-later
 - [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth) oauth 101 #read
 - [an engineer's perspective on hiring](https://jyn.dev/an-engineers-perspective-on-hiring) 好的面试是什么样的 #read
