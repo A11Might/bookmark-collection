@@ -1,3 +1,4 @@
+- [Cognition | Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents#applying-the-principles) 多agents的问题 #read
 - [Effective learning: Twenty rules of formulating knowledge - SuperMemo](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge) 如何高效学习 #read
 - [The Four Styles of Confidence on a Team | Adam Smith](https://adamsmith.cc/the-four-styles-of-confidence-on-a-team/) 关于自信 #read
 - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/) #read-later
