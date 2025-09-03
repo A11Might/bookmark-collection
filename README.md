@@ -1,3 +1,4 @@
+- [Preserving Order in Concurrent Go Apps: Three Approaches Compared](https://destel.dev/blog/preserving-order-in-concurrent-go) go并发 #read
 - [Cognition | Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents#applying-the-principles) 多agents的问题 #read
 - [Effective learning: Twenty rules of formulating knowledge - SuperMemo](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge) 如何高效学习 #read
 - [The Four Styles of Confidence on a Team | Adam Smith](https://adamsmith.cc/the-four-styles-of-confidence-on-a-team/) 关于自信 #read
