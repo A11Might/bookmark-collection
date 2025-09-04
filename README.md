@@ -1,3 +1,4 @@
+- [Poor man's bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html) 双时态数据系统 #read
 - [Preserving Order in Concurrent Go Apps: Three Approaches Compared](https://destel.dev/blog/preserving-order-in-concurrent-go) go并发 #read
 - [Cognition | Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents#applying-the-principles) 多agents的问题 #read
 - [Effective learning: Twenty rules of formulating knowledge - SuperMemo](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge) 如何高效学习 #read
