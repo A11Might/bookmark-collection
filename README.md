@@ -1,3 +1,4 @@
+- [Keeping Secrets Out of Logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/) 日志相关 #read-later
 - [Poor man's bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html) 双时态数据系统 #read
 - [Preserving Order in Concurrent Go Apps: Three Approaches Compared](https://destel.dev/blog/preserving-order-in-concurrent-go) go并发 #read
 - [Cognition | Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents#applying-the-principles) 多agents的问题 #read
