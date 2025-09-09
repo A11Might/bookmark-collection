@@ -1,3 +1,4 @@
+- [The story of how RSS beat Microsoft](https://buttondown.com/blog/rss-vs-ice) rss的故事 #read-later
 - [Keeping Secrets Out of Logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/) 日志相关 #read-later
 - [Poor man's bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html) 双时态数据系统 #read
 - [Preserving Order in Concurrent Go Apps: Three Approaches Compared](https://destel.dev/blog/preserving-order-in-concurrent-go) go并发 #read
