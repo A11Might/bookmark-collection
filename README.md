@@ -1,3 +1,4 @@
+- [Experimenting with local LLMs on macOS](https://blog.6nok.org/experimenting-with-local-llms-on-macos/) #read-later
 - [The story of how RSS beat Microsoft](https://buttondown.com/blog/rss-vs-ice) rss的故事 #read-later
 - [Keeping Secrets Out of Logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/) 日志相关 #read-later
 - [Poor man's bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html) 双时态数据系统 #read
