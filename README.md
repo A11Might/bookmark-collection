@@ -1,3 +1,4 @@
+- [Behind The Scenes of Bun Install | Bun Blog](https://bun.com/blog/behind-the-scenes-of-bun-install) #read-later
 - [The Scam Called “You Don't Have to Remember Anything” • Zettelkasten Method](https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/) 过程大于结果 #read
 - [Experimenting with local LLMs on macOS](https://blog.6nok.org/experimenting-with-local-llms-on-macos/) #read-later
 - [The story of how RSS beat Microsoft](https://buttondown.com/blog/rss-vs-ice) rss的故事 #read-later
