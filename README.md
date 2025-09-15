@@ -1,3 +1,4 @@
+- [Read to Forget](https://mo42.bearblog.dev/read-to-forget/) #memo
 - [Claude Memory: A Different Philosophy](https://shloked.com/writing/claude-memory) #read-later
 - [Behind The Scenes of Bun Install | Bun Blog](https://bun.com/blog/behind-the-scenes-of-bun-install) #read-later
 - [The Scam Called “You Don't Have to Remember Anything” • Zettelkasten Method](https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/) 过程大于结果 #read
