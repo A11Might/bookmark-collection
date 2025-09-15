@@ -1,3 +1,4 @@
+- [Why We Spiral - by Gregory M. Walton - Behavioral Scientist](https://behavioralscientist.org/why-we-spiral/) #read-later
 - [Read to Forget](https://mo42.bearblog.dev/read-to-forget/) #memo
 - [Claude Memory: A Different Philosophy](https://shloked.com/writing/claude-memory) #read-later
 - [Behind The Scenes of Bun Install | Bun Blog](https://bun.com/blog/behind-the-scenes-of-bun-install) #read-later
