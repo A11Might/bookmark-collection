@@ -1,3 +1,4 @@
+- [Fifty Things you can do with a Software Defined Radio 📻](https://blinry.org/50-things-with-sdr/) 无线电玩具 #toy
 - [Why We Spiral - by Gregory M. Walton - Behavioral Scientist](https://behavioralscientist.org/why-we-spiral/) #read-later
 - [Read to Forget](https://mo42.bearblog.dev/read-to-forget/) #memo
 - [Claude Memory: A Different Philosophy](https://shloked.com/writing/claude-memory) #read-later
