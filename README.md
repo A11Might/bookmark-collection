@@ -1,3 +1,4 @@
+- [How to Motivate Yourself To Do A Thing You Don't Want to Do](https://ashleyjanssen.com/how-to-motivate-yourself-to-do-a-thing-you-dont-want-to-do/) passion!!! #read-later
 - [When the Job Search Becomes Impossible: Three Phases of Burnout – Holy Ghost Stories](https://www.jeffwofford.com/wp/?p=2240) #read-later
 - [Fifty Things you can do with a Software Defined Radio 📻](https://blinry.org/50-things-with-sdr/) 无线电玩具 #toy
 - [Why We Spiral - by Gregory M. Walton - Behavioral Scientist](https://behavioralscientist.org/why-we-spiral/) #read-later
