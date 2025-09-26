@@ -1,3 +1,4 @@
+- [meks.quest](https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review) #read-later
 - [How to Lead in a Room Full of Experts](https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts) #read-later
 - [Why Local-First Apps Haven’t Become Popular?](https://marcobambini.substack.com/p/why-local-first-apps-havent-become) #read-later
 - [Beyond the Front Page: A Personal Guide to Hacker News](https://hsu.cy/2025/09/how-to-read-hn/#%E6%B0%B8%E6%81%92%E7%9A%84%E4%B9%9D%E6%9C%88%E6%9C%89%E6%95%91%E5%90%97) #read-later
