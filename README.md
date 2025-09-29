@@ -1,3 +1,4 @@
+- [The AI coding trap | Chris Loy](https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap) #read-later
 - [meks.quest](https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review) #read-later
 - [How to Lead in a Room Full of Experts](https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts) #read-later
 - [Why Local-First Apps Haven’t Become Popular?](https://marcobambini.substack.com/p/why-local-first-apps-havent-become) #read-later
