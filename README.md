@@ -1,3 +1,4 @@
+- [Write the damn code](https://antonz.org/write-code/) 你是软件工程师，不是提示提工程师 #note
 - [The AI coding trap | Chris Loy](https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap) #read-later
 - [meks.quest](https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review) #read-later
 - [How to Lead in a Room Full of Experts](https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts) #read-later
