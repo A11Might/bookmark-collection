@@ -1,3 +1,4 @@
+- [You don't need Kafka: Building a message queue with only two UNIX signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals.html) #read-later
 - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects) #read-later
 - [What is "good taste" in software engineering?](https://www.seangoedecke.com/taste/) #read-later
 - [Write the damn code](https://antonz.org/write-code/) 你是软件工程师，不是提示提工程师 #note
