@@ -1,3 +1,4 @@
+- [Why a ‘Boring’ Life Might Be the Happiest One](https://karunpal.substack.com/p/why-a-boring-life-might-be-the-happiest) 少及是多 #read
 - [Strava plugin for Grafana | Grafana Labs](https://grafana.com/grafana/plugins/grafana-strava-datasource/) strava数据可视化 #toy
 - [You don't need Kafka: Building a message queue with only two UNIX signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals.html) #read-later
 - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects) #read-later
