@@ -1,3 +1,4 @@
+- [Strava plugin for Grafana | Grafana Labs](https://grafana.com/grafana/plugins/grafana-strava-datasource/) strava数据可视化 #toy
 - [You don't need Kafka: Building a message queue with only two UNIX signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals.html) #read-later
 - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects) #read-later
 - [What is "good taste" in software engineering?](https://www.seangoedecke.com/taste/) #read-later
