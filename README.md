@@ -1,3 +1,4 @@
+- [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/) 常用脚本 #try
 - [I'm a Senior Developer and I Still Google Everything (And That's Perfectly Normal)](https://dev.to/elvissautet/im-a-senior-developer-and-i-still-google-everything-and-thats-perfectly-normal-21a2) 高级程序员高级在哪 #read
 - [Build Your Own Database](https://www.nan.fyi/database) LSM数据库实现 #study
 - [Why a ‘Boring’ Life Might Be the Happiest One](https://karunpal.substack.com/p/why-a-boring-life-might-be-the-happiest) 少及是多 #read
