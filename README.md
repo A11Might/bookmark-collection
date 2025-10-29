@@ -1,3 +1,4 @@
+- [Tips for stroke-surviving software engineers - by James Padolsey](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/) 程序员生存技巧 #read
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 编程工具使用101 #read
 - [How to effectively conduct programming interviews](https://www.gethopp.app/blog/how-to-conduct-good-programming-interviews) 如何更好的找到合适的候选人 #read
 - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/) 常用脚本 #try
