@@ -1,3 +1,4 @@
+- [Hosting SQLite databases on Github Pages - (or IPFS or any static file hoster) - phiresky's blog](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/) githug page使用sqllit #read
 - [Kafka is fast -- I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks) Postgres做消息队列 #read
 - [Tips for stroke-surviving software engineers - by James Padolsey](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/) 程序员生存技巧 #read
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 编程工具使用101 #read
