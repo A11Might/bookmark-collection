@@ -1,3 +1,4 @@
+- [New Recommended Extensions arrived, thanks to our community curators – Mozilla Add-ons Community Blog](https://blog.mozilla.org/addons/2025/10/29/new-recommended-extensions-arrived-thanks-to-our-community-curators/) 浏览器插件推荐 #read
 - [Backpressure in Distributed Systems | Systems & Sidequests](https://blog.pranshu-raj.me/posts/backpressure/) 消息堆积处理方法 #read
 - [Hosting SQLite databases on Github Pages - (or IPFS or any static file hoster) - phiresky's blog](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/) githug page使用sqllit #read
 - [Kafka is fast -- I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks) Postgres做消息队列 #read
