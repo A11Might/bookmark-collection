@@ -1,3 +1,4 @@
+- [Full Text Search Shenanigans](https://notpeerreviewed.com/blog/bloom-filters/) 布隆过滤器用于全文搜索 #read
 - [At the end you use git bisect](/git/2025/11/02/At-the-end-you-use-git-bisect.html) git bisect #read
 - [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) claude code 101 #read-later
 - [New Recommended Extensions arrived, thanks to our community curators – Mozilla Add-ons Community Blog](https://blog.mozilla.org/addons/2025/10/29/new-recommended-extensions-arrived-thanks-to-our-community-curators/) 浏览器插件推荐 #read
