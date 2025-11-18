@@ -1,3 +1,4 @@
+- [Building a Simple Search Engine That Actually Works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works) 实现一个基于数据库的搜索引擎 #read
 - [No Competition? That's Usually a Red Flag for Solopreneurs (I Learned the Hard Way) | Meysam Azad](https://meysam.io/blog/no-competition-red-flag-solopreneur-validated-market/) 不是你发现了新的蓝海，只是别人都没做成 #read
 - [Full Text Search Shenanigans](https://notpeerreviewed.com/blog/bloom-filters/) 布隆过滤器用于全文搜索 #read
 - [At the end you use git bisect](/git/2025/11/02/At-the-end-you-use-git-bisect.html) git bisect #read
