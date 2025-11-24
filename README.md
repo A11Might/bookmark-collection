@@ -1,3 +1,4 @@
+- [How/Why to Sweep Async Tasks Under a Postgres Table](https://taylor.town/pg-task) #read-later
 - [It’s Not Always DNS: Exploring How Name Resolution Works](https://cefboud.com/posts/dns-name-resolution-deep-dive-internals/) dns 101 #read
 - [Building a Simple Search Engine That Actually Works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works) 实现一个基于数据库的搜索引擎 #read
 - [No Competition? That's Usually a Red Flag for Solopreneurs (I Learned the Hard Way) | Meysam Azad](https://meysam.io/blog/no-competition-red-flag-solopreneur-validated-market/) 不是你发现了新的蓝海，只是别人都没做成 #read
