@@ -1,3 +1,4 @@
+- [Fifty Shades of OOP | Lesley Lai](https://lesleylai.info/en/fifty_shades_of_oop/) oop 101 #read
 - [Everything You Know About Latency Is Wrong](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/) #read-later
 - [How/Why to Sweep Async Tasks Under a Postgres Table](https://taylor.town/pg-task) #read-later
 - [It’s Not Always DNS: Exploring How Name Resolution Works](https://cefboud.com/posts/dns-name-resolution-deep-dive-internals/) dns 101 #read
