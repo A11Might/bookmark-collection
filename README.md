@@ -1,3 +1,4 @@
+- [LangGraph 1.0 完全指南 - 首页](https://www.luochang.ink/dive-into-langgraph//) #read
 - [10 Docker Superpowers Developers Forget to Use](https://oneuptime.com/blog/post/2025-11-27-ten-docker-superpowers-youre-probably-not-using/view) docker trick #read
 - [Why Strong Consistency? - Marc's Blog](https://brooker.co.za/blog/2025/11/18/consistency.html) 强一致性科普 #read
 - [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/) bug修复周 #read
