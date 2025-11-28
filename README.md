@@ -1,3 +1,4 @@
+- [Why Strong Consistency? - Marc's Blog](https://brooker.co.za/blog/2025/11/18/consistency.html) 强一致性科普 #read
 - [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/) bug修复周 #read
 - [Fifty Shades of OOP | Lesley Lai](https://lesleylai.info/en/fifty_shades_of_oop/) oop 101 #read
 - [Everything You Know About Latency Is Wrong](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/) #read-later
