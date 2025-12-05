@@ -1,3 +1,4 @@
+- [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/) 终于知道rust大概是什么了 #read
 - [写在离开 Folo 之后 | 静かな森](https://web.archive.org/web/20251201065213mp_/https://innei.in) 做产品反思 #read
 - [LangGraph 1.0 完全指南 - 首页](https://www.luochang.ink/dive-into-langgraph//) #read
 - [10 Docker Superpowers Developers Forget to Use](https://oneuptime.com/blog/post/2025-11-27-ten-docker-superpowers-youre-probably-not-using/view) docker trick #read
