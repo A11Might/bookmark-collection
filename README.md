@@ -1,3 +1,4 @@
+- [The f*** off contact page - Nic Chan](https://www.nicchan.me/blog/the-f-off-contact-page/) 老乙方了 #read
 - [Estimates – a necessary evil?](https://thorsell.io/2025/12/07/estimates.html) 评估需求 #read-later
 - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/) 终于知道rust大概是什么了 #read
 - [写在离开 Folo 之后 | 静かな森](https://web.archive.org/web/20251201065213mp_/https://innei.in) 做产品反思 #read
