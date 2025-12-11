@@ -1,3 +1,4 @@
+- [使用自动化工作流聚合信息摄入和输出 | Reorx’s Forge](https://reorx.com/blog/sharing-my-footprints-automation/) daily life log report #read
 - [Making macOS Bearable](https://seg6.space/posts/making-macos-bearable/) #read-later
 - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/) 分析十年前的文章：洞察力和预测 #read
 - [The f*** off contact page - Nic Chan](https://www.nicchan.me/blog/the-f-off-contact-page/) 老乙方了 #read
