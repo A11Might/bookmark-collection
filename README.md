@@ -1,3 +1,4 @@
+- [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/) 分析十年前的文章：洞察力和预测 #read
 - [The f*** off contact page - Nic Chan](https://www.nicchan.me/blog/the-f-off-contact-page/) 老乙方了 #read
 - [Estimates – a necessary evil?](https://thorsell.io/2025/12/07/estimates.html) 评估需求 #read-later
 - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/) 终于知道rust大概是什么了 #read
