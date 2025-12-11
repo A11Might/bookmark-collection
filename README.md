@@ -1,3 +1,4 @@
+- [Making macOS Bearable](https://seg6.space/posts/making-macos-bearable/) #read-later
 - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/) 分析十年前的文章：洞察力和预测 #read
 - [The f*** off contact page - Nic Chan](https://www.nicchan.me/blog/the-f-off-contact-page/) 老乙方了 #read
 - [Estimates – a necessary evil?](https://thorsell.io/2025/12/07/estimates.html) 评估需求 #read-later
