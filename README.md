@@ -1,3 +1,4 @@
+- [Deprecate Like You Mean It](https://entropicthoughts.com/deprecate-like-you-mean-it) 我是真遇到废弃接口请求有概率报错的（kani） #read
 - [使用自动化工作流聚合信息摄入和输出 | Reorx’s Forge](https://reorx.com/blog/sharing-my-footprints-automation/) daily life log report #read
 - [Making macOS Bearable](https://seg6.space/posts/making-macos-bearable/) #read-later
 - [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/) 分析十年前的文章：洞察力和预测 #read
