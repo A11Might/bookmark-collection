@@ -1,3 +1,4 @@
+- [The Mysterious Forces Steering Views on Hacker News](https://xn--gckvb8fzb.com/the-mysterious-forces-steering-views-on-hacker-news/) 现在所有东西都有审查，你需要注意的就是：你看到的不是全貌 #read
 - [Introduction to Software Development Tooling](https://bernsteinbear.com/isdt/) 编程工具使用101 #read
 - [Deprecate Like You Mean It](https://entropicthoughts.com/deprecate-like-you-mean-it) 我是真遇到废弃接口请求有概率报错的（kani） #read
 - [使用自动化工作流聚合信息摄入和输出 | Reorx’s Forge](https://reorx.com/blog/sharing-my-footprints-automation/) daily life log report #read
