@@ -1,3 +1,4 @@
+- [Rainman 工程体系八问：面试时如何识别卓越工程文化](https://deusyu.app/posts/rainman-eng-culture/) 面试反问 #read
 - [If You Don't Design Your Career, Someone Else Will - Greg McKeown](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/) 职业规划方法论 #read
 - [Three ways to solve problems — Andreas Fragner](https://andreasfragner.com/writing/three-ways-to-solve-problems) 道理我都懂.jpg #read
 - [abseil / Performance Hints](https://abseil.io/fast/hints.html) 性能优化 #read
