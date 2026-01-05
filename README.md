@@ -1,3 +1,4 @@
+- [73 Programming Project Ideas to Inspire and Challenge You](https://codecrafters.io/blog/programming-project-ideas) 看下git和容器运行时两个部分 #study
 - [Weekly Issue-2026](https://zdyxry.github.io/2026/01/05/Weekly-Issue-2026/) 学习一下，这种平时碎片化，然后每周总结感觉更好一点 #study
 - [新的阶段](http://www.gexiao.me/2022/03/17/new-stage/) 对于工作状态感同身受 #read
 - [Don't Become the Machine](https://blog.armeet.ca/becoming-the-machine/) 假装很努力没用 #read
