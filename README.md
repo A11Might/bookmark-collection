@@ -1,3 +1,4 @@
+- [科技爱好者周刊（第 380 期）：为什么人们拥抱"不对称收益" - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2026/01/weekly-issue-380.html) 不符合社会主义核心价值观，被和谐了 #read
 - [Refactoring -- Not on the backlog!](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/) 需求和技术一般82开，增量重构 #read
 - [73 Programming Project Ideas to Inspire and Challenge You](https://codecrafters.io/blog/programming-project-ideas) 看下git和容器运行时两个部分 #study
 - [Weekly Issue-2026](https://zdyxry.github.io/2026/01/05/Weekly-Issue-2026/) 学习一下，这种平时碎片化，然后每周总结感觉更好一点 #study
