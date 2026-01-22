@@ -1,3 +1,4 @@
+- [Setting Up A Cluster of Tiny PCs For Parallel Computing - A Note To Myself | Everyday Is A School Day](https://www.kenkoonwong.com/blog/parallel-computing/) 机器搭建 #read-later
 - [I'm addicted to being useful](https://www.seangoedecke.com/addicted-to-being-useful/) 我的内驱力是什么 #read
 - [Using WebRTC to launch a debugging terminal into GitHub Actions | gripdev.xyz](http://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/) 研究下打洞 #study
 - [科技爱好者周刊（第 380 期）：为什么人们拥抱"不对称收益" - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2026/01/weekly-issue-380.html) 不符合社会主义核心价值观，被和谐了 #read
