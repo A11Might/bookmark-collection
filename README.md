@@ -1,3 +1,4 @@
+- [Your App Subscription Is Now My Weekend Project · Roberto Selbach](https://rselbach.com/your-sub-is-now-my-weekend-project/) 需要什么vibecoding什么 #read
 - [Explainer: Tree-sitter vs. LSP](https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/) tree-sitter和lsp科普 #read
 - [I'm 34. Here's 34 things I wish I knew at 21](https://elliot.my/im-34-heres-34-things-i-wish-i-knew-at-21/) 鸡汤 #read
 - [Setting Up A Cluster of Tiny PCs For Parallel Computing - A Note To Myself | Everyday Is A School Day](https://www.kenkoonwong.com/blog/parallel-computing/) 机器搭建 #read-later
