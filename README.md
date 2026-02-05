@@ -1,3 +1,4 @@
+- [I miss thinking hard.](https://www.jernesto.com/articles/thinking_hard) 和之前喜欢帮助的文章，结合看下 #read
 - [I made my own git | TonyStr's blog](https://tonystr.net/blog/git_immitation) 实现git #read-later
 - [Introduction to PostgreSQL Indexes](https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/) pg索引 #read-later
 - [Your App Subscription Is Now My Weekend Project · Roberto Selbach](https://rselbach.com/your-sub-is-now-my-weekend-project/) 需要什么vibecoding什么 #read
