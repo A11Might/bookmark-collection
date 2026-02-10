@@ -1,3 +1,4 @@
+- [How I use Obsidian](https://stephango.com/vault) 如何记录 #read
 - [使用 vim 记录工作日志](https://www.jakehao.com/vim-work-journal) 笔记大道至简 #read
 - [I miss thinking hard.](https://www.jernesto.com/articles/thinking_hard) 和之前喜欢帮助的文章，结合看下 #read
 - [I made my own git | TonyStr's blog](https://tonystr.net/blog/git_immitation) 实现git #read-later
