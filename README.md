@@ -1,3 +1,4 @@
+- [对开源模式演变的一些想法——写在开始参与开源 10 年后](https://blog.inoki.cc/2026/02/17/My-thoughts-on-Open-Source-after-10-years-2026-cn/index.html) 开源演变 #read
 - [Obsidian CLI - Obsidian Help](https://help.obsidian.md/cli) 用这个就能让cc连上obsidian了 #read
 - [How I use Obsidian](https://stephango.com/vault) 如何记录 #read
 - [使用 vim 记录工作日志](https://www.jakehao.com/vim-work-journal) 笔记大道至简 #read
