@@ -1,3 +1,4 @@
+- [Repurpose your old Kindle](https://mariannefeng.com/portfolio/kindle/) kindle 越狱改造 #read
 - [The (lazy) Git UI You Didn't Know You Need](https://bwplotka.dev/2025/lazygit/) lazygit 赛高 #read
 - [Do We Still Need Tech Blogs in the Era of GenAI?](https://blog.mrcroxx.com/posts/do-we-still-need-tech-blogs-in-the-era-of-gen-ai/) 技术博客不会因为ai而消失 #read
 - [对开源模式演变的一些想法——写在开始参与开源 10 年后](https://blog.inoki.cc/2026/02/17/My-thoughts-on-Open-Source-after-10-years-2026-cn/index.html) 开源演变 #read
