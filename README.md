@@ -1,3 +1,4 @@
+- [YOU JUST NEED POSTGRES](https://youjustneedpostgres.com/) 万物皆可postgre #postgre
 - [Repurpose your old Kindle](https://mariannefeng.com/portfolio/kindle/) kindle 越狱改造 #read
 - [The (lazy) Git UI You Didn't Know You Need](https://bwplotka.dev/2025/lazygit/) lazygit 赛高 #read
 - [Do We Still Need Tech Blogs in the Era of GenAI?](https://blog.mrcroxx.com/posts/do-we-still-need-tech-blogs-in-the-era-of-gen-ai/) 技术博客不会因为ai而消失 #read
