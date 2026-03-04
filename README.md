@@ -1,3 +1,4 @@
+- [Don't become an Engineering Manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager) 文章一般，里面的cc tweet很有指导性 #ai
 - [YOU JUST NEED POSTGRES](https://youjustneedpostgres.com/) 万物皆可postgre #postgre
 - [Repurpose your old Kindle](https://mariannefeng.com/portfolio/kindle/) kindle 越狱改造 #read
 - [The (lazy) Git UI You Didn't Know You Need](https://bwplotka.dev/2025/lazygit/) lazygit 赛高 #read
